@@ -1,7 +1,11 @@
 # UFCD-0727---Internet-navegação 
-## Servidores
-## Domínios
+## Servidores:
+um “computador” com maior capacidade de armazenamento, que armazenam e disponibilizam páginas na web e criam ligações entre computadores.
+## Domínios:
+um “endereço” ao meu “terreno”, pago, personalização da página/site.  
 ## Alojamento de páginas
+Serviço que hospeda os sites, a base do site. Como comprar “terrenos” digitais.  
+
 
 > ### **Formadora Rita Soares**
 
